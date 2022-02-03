@@ -11,4 +11,4 @@ One of the projects for Scrimba's Front-End Developer Career Path. This project 
 - Javascript
 
 ## Preview
-<img src="https://github.com/thejoshyee/bbq-page/blob/main/bbq-preview.png" width="50%" />
+<img src="https://github.com/thejoshyee/bbq-page/blob/main/bbq-preview.png" width="75%" />
